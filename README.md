@@ -1,2 +1,2 @@
-# react-graphql-auth
-User Athentication using PassportJS, GraphQL, React, Apollo Client, MongoDB
+# auth-graphql-starter
+Starter project from a GraphQL course on Udemy.com - Section 3!
